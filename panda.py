@@ -96,3 +96,4 @@ for e in list:
 print '🎉处理完成, 共减少:',totalDecreaseSize,"K"
 print '😘当前账号本月免费使用情况:',tinify.compression_count,"/ 500"
 
+
